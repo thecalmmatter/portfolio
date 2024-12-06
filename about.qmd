@@ -1,0 +1,66 @@
+---
+title: "About Me"
+aliases:
+  - /about
+permalink: /about
+toc: false
+---
+I am Prasoon Majumdar, a seasoned **Data Engineering and DevOps leader** based in Bangalore, India. My day-to-day work involves leading **cloud migration initiatives**, managing **distributed system frameworks**, and fostering **quality assurance processes** to enhance system reliability. Currently, I am pursuing a **Master’s in Artificial Intelligence** at IIIT Kottayam, blending academic rigor with my professional experience.
+
+Over the years, I have worked in strategic roles at **Haleon**, **Avaamo**, and **People10 Technosoft**, developing expertise in **MLOps**, **cloud computing**, and **DevOps practices**. I have led impactful projects such as creating **data observability frameworks**, scaling AI chatbot products, and coordinating multi-project resource management.
+
+I enjoy implementing research ideas and developing scalable solutions in AI and data engineering. My projects include building **CNN models for image classification**, developing **auto-encoders for image colorization**, and analyzing Indian climate data. With a strong focus on **technical innovation and stakeholder collaboration**, I strive to align technology with strategic goals.
+
+For more details on my work experience, check out my [LinkedIn profile](#) or [GitHub](#).
+
+### Timeline
+
+| **Position**                          | **Company**                       | **Duration**             |
+|:-------------------------------------:|:---------------------------------:|:------------------------:|
+| Principal Data Engineering Manager    | Haleon                           | 2020 – 2024             |
+| DevOps Manager                        | Avaamo                           | 2019 – 2020             |
+| DevOps Manager                        | People10 Technosoft Pvt Ltd       | 2017 – 2019             |
+
+---
+
+### Technical Skills
+
+- **Languages**: Python, PySpark, R, Shell scripting  
+- **Data Engineering/Analytics**: Power BI, Azure Databricks, Spark-SQL, DataLake, Hadoop  
+- **DevOps**: GitHub, Prometheus, SonarQube, Grafana, Jira, Azure DevOps, Terraform, Ansible  
+- **Cloud**: Azure, AWS  
+- **MLOps**: ChatGPT API, Hugging Face API, LangChain, LLMs, CNNs, DNNs, Streamlit, Prompt Engineering  
+
+---
+
+### Education
+
+| **Institution**                      | **Degree**                            | **Duration**            |
+|:-------------------------------------:|:-------------------------------------:|:-----------------------:|
+| IIIT Kottayam                         | Master of Technology in AI            | 2022 – Present          |
+| APJ Abdul Kalam Technical University | Bachelor of Technology (Electronics)  | Completed               |
+
+---
+
+### Certifications
+
+- **Azure Spark Databricks & Lakehouse Fundamentals**, Databricks, 2023  
+- **Certified Product Owner**, Scrum Inc., 2022  
+- **Supervised Machine Learning: Regression & Classification**, DeepLearning.AI, 2022  
+- **Open Hack: Containers**, Microsoft OpenHack, 2020 – Present  
+
+### Notable Projects
+
+1. **CNN Model for Flower-17 Dataset**: Constructed a CNN model using VGG-16 for feature extraction and reconstruction for the Flower-17 dataset.  
+2. **Colorizing Auto-Encoder**: Tuned an auto-encoder for converting grayscale images to colored ones.  
+3. **Climate Data Analysis**: Analyzed Indian climate data using R to model precipitation graphs using correlation.  
+4. **Binary Classifier for IMDB Dataset**: Developed a binary classifier for sentiment analysis of 50,000 IMDB movie reviews.
+
+<table>
+  <tr>
+    <td><a href="#"><img src="https://img.shields.io/github/followers/yourusername.svg?label=GitHub&style=social" alt="GitHub"></a></td>
+    <td><a href="#"><img src="https://img.shields.io/twitter/follow/yourusername?label=Twitter&style=social" alt="Twitter"></a></td>
+    <td><a href="#"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a></td>
+    <td><a href="mailto:prasoonprince@gmail.com"><img src="https://img.shields.io/badge/Gmail--_.svg?style=social&logo=gmail" alt="Gmail"></a></td>
+  </tr>
+</table>
